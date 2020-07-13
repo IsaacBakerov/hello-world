@@ -1,2 +1,3 @@
 # hello-world
-first repository
+
+It's Wednesday my dudes
